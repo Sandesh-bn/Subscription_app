@@ -30,7 +30,8 @@ yarn start
 yarn test		
 ```
 
-Alternatively
+## Alternatively
+
 ```
 npm install
 ```
@@ -49,6 +50,4 @@ npm start
 ```
 npm test		
 ```
-
-* It's using Ject and Enzyme.
 
