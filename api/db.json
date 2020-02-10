@@ -1,0 +1,26 @@
+{
+  "plans": [
+    "basic",
+    "good",
+    "better",
+    "best"
+  ],
+  "costs": {
+    "basic": 1,
+    "good": 10,
+    "better": 100,
+    "best": 1000
+  },
+  "names": {
+    "basic": "Basic",
+    "good": "Good",
+    "better": "Better",
+    "best": "Best"
+  },
+  "current": {
+    "plan": "better",
+    "seats": 50,
+    "name": "Better",
+    "cost": 5000
+  }
+}
